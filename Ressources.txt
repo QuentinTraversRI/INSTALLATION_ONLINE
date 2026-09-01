@@ -1,0 +1,11 @@
+Firefox|https://download.mozilla.org/?product=firefox-latest-ssl&os=win64&lang=fr
+GoogleChrome|https://dl.google.com/tag/s/appguid%3D%7B8A69D345-D564-463C-AFF1-A69D9E530F96%7D%26iid%3D%7B12CC14A5-14EA-1194-1189-11DB16131526%7D%26lang%3Dfr%26browser%3D3%26usagestats%3D0%26appname%3DGoogle%2520Chrome%26needsadmin%3Dprefers%26ap%3D-arch_x64-statsdef_1%26installdataindex%3Dempty%26brand%3DOZZY/update2/installers/ChromeSetup.exe
+TeamViewer|https://download.teamviewer.com/download/TeamViewer_Setup_x64.exe
+Thunderbird|https://download.mozilla.org/?product=thunderbird-149.0.2-SSL&os=win64&lang=fr
+TrayStatus|https://www.binaryfortress.com/Data/Download/?Package=traystatus&Log=114
+7Zip|https://github.com/ip7z/7zip/releases/download/26.00/7z2600-x64.exe
+LibreOffice|https://download.documentfoundation.org/libreoffice/stable/26.2.2/win/x86_64/LibreOffice_26.2.2_Win_x86-64.msi
+AdobeReader|https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2600121431/AcroRdrDC2600121431_fr_FR.exe
+Java8|https://javadl.oracle.com/webapps/download/AutoDL?BundleId=252907_0d06828d282343ea81775b28020a7cd3
+VLC|https://get.videolan.org/vlc/3.0.23/win64/vlc-3.0.23-win64.exe
+AutoBackup7Pro|https://raw.githubusercontent.com/QuentinTraversRI/INSTALLATION_ONLINE/refs/heads/main/AutoBackup7Pro.7z
