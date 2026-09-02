@@ -1,10 +1,10 @@
 Firefox|https://download.mozilla.org/?product=firefox-latest-ssl&os=win64&lang=fr
-GoogleChrome|https://dl.google.com/tag/s/appguid%3D%7B8A69D345-D564-463C-AFF1-A69D9E530F96%7D%26iid%3D%7B12CC14A5-14EA-1194-1189-11DB16131526%7D%26lang%3Dfr%26browser%3D3%26usagestats%3D0%26appname%3DGoogle%2520Chrome%26needsadmin%3Dprefers%26ap%3D-arch_x64-statsdef_1%26installdataindex%3Dempty%26brand%3DOZZY/update2/installers/ChromeSetup.exe
+GoogleChrome|https://dl.google.com/tag/s/appguid%3D%7B8A69D345-D564-463C-AFF1-A69D9E530F96%7D%26iid%3D%7B2DB01367-0A8B-8495-3C95-B42A139E227E%7D%26lang%3Dfr%26browser%3D3%26usagestats%3D0%26appname%3DGoogle%2520Chrome%26needsadmin%3Dprefers%26ap%3D-arch_x64-statsdef_1%26installdataindex%3Dempty/update2/installers/ChromeSetup.exe
 TeamViewer|https://download.teamviewer.com/download/TeamViewer_Setup_x64.exe
-Thunderbird|https://download.mozilla.org/?product=thunderbird-149.0.2-SSL&os=win64&lang=fr
+Thunderbird|https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/155.0/win64/fr/Thunderbird%20Setup%20155.0.exe
 TrayStatus|https://www.binaryfortress.com/Data/Download/?Package=traystatus&Log=114
 7Zip|https://github.com/ip7z/7zip/releases/download/26.00/7z2600-x64.exe
-LibreOffice|https://download.documentfoundation.org/libreoffice/stable/26.2.2/win/x86_64/LibreOffice_26.2.2_Win_x86-64.msi
+LibreOffice|https://download.documentfoundation.org/libreoffice/stable/26.8.0/win/x86_64/LibreOffice_26.8.0_Win_x86-64.msi
 AdobeReader|https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2600121431/AcroRdrDC2600121431_fr_FR.exe
 Java8|https://javadl.oracle.com/webapps/download/AutoDL?BundleId=253608_2fde65a2208f40a5b5f4c844b0dff092
 VLC|https://get.videolan.org/vlc/3.0.23/win64/vlc-3.0.23-win64.exe
