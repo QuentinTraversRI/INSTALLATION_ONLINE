@@ -4,8 +4,8 @@ TeamViewer|https://download.teamviewer.com/download/TeamViewer_Setup_x64.exe
 Thunderbird|https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/155.0/win64/fr/Thunderbird%20Setup%20155.0.exe
 TrayStatus|https://www.binaryfortress.com/Data/Download/?Package=traystatus&Log=114
 7Zip|https://github.com/ip7z/7zip/releases/download/26.00/7z2600-x64.exe
-LibreOffice|https://download.documentfoundation.org/libreoffice/stable/26.8.0/win/x86_64/LibreOffice_26.8.0_Win_x86-64.msi
-AdobeReader|https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2600121771/AcroRdrDC2600121771_fr_FR.exe
-Java8|https://javadl.oracle.com/webapps/download/AutoDL?BundleId=253608_2fde65a2208f40a5b5f4c844b0dff092
+LibreOffice|https://download.documentfoundation.org/libreoffice/stable/26.8.1/win/x86_64/LibreOffice_26.8.1_Win_x86-64.msi
+AdobeReader|https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2600221931/AcroRdrDC2600221931_fr_FR.exe
+Java8|https://javadl.oracle.com/webapps/download/AutoDL?BundleId=254128_ee9438f370f14316bf0d13e23c26582b
 VLC|https://get.videolan.org/vlc/3.0.23/win64/vlc-3.0.23-win64.exe
 AutoBackup7Pro|https://raw.githubusercontent.com/QuentinTraversRI/INSTALLATION_ONLINE/refs/heads/main/AutoBackup7Pro.7z
